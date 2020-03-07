@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<material>
+	<technique name="Techniques/RampBeamAddAlpha.xml" />
+	<texture unit="diffuse" name="Textures/laserRamp.bmp" />
+	<parameter name="MatDiffColor" value="1 1 1 1" />
+	<parameter name="BeamExp" value="2" />
+</material>
